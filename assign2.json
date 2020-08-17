@@ -1,0 +1,66 @@
+[
+    {   
+        "name" :"Pineapple",
+        "price":"5",
+        "image":"dp1.jpg",
+        "type" :"cake"
+    },
+    {   
+        "name" :"Black Forest",
+        "price":"7",
+        "image":"dp2.jpg",
+        "type" :"cake"
+    },{
+        "name":"Chocolate Truffle",
+        "price":"30",
+        "image":"dp3.jpg",
+        "type":"cake"
+    },
+    {   
+        "name":"Choco Blueberry",
+        "price":"20",
+        "image":"dp4.jpg",
+        "type":"cupcake"
+    },
+    {   
+        "name":"Choco Nut",
+        "price":"50",
+        "image":"dp5.jpg",
+        "type":"Doughnut"
+    },{
+        "name":"Choc custard",
+        "price":"70",
+        "image":"dp6.jpg",
+        "type":"Doughnut"
+    },
+    {   
+        "name":"Rasgulla",
+        "price":"100",
+        "image":"dp7.jpg",
+        "type":"sweet"
+    },
+    {   
+        "name":"Butter Scotch",
+        "price":"60",
+        "image":"dp8.jpg",
+        "type":"Cupcake"
+    },
+    {
+        "name":"Gulab Jamun",
+        "price":"90",
+        "image":"dp9.jpg",
+        "type":"Sweet"
+    },
+    {   
+        "name":"Rabri Malai",
+        "price":"40",
+        "image":"dp10.jpg",
+        "type":"sweet"
+    }
+{   
+        "name":"Rasmalai",
+        "price":"20",
+        "image":"dp11.jpg",
+        "type":"sweet"
+    }
+] 

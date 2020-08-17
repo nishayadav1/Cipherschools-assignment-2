@@ -1,0 +1,43 @@
+<html>
+    <head>
+        <script src="assign2.js"></script>
+		 <script src="assign2.json"></script>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav>
+            <h1>
+             <center> Our Store</center>
+            </h1>
+        </nav>
+        <div class="contain items">
+            <div class="row">
+                <input type="button" class="col btn " name="all" onclick=" details;" value="all"/>
+                <input type="button" class="col btn" name="cake" onclick=" details;" value="cake"/>
+                <input type="button" class="col btn " name="cupcake" onclick="details;" value="cupcake"/>
+                <input type="button" class="col btn " name="sweet" onclick=" details;" value="sweet"/>
+                <input type="button" class="col btn" name="doughnut" onclick=" details;" value="doughnut"/>
+
+            </div>    
+            <div class="row">
+
+                    <div class="input-group">
+                      <input type="text" class="form-control" placeholder="Search" id="search">
+                      <div class="input-group-btn">
+                        <button class="btn" onclick="search()">
+                          Search
+                        </button>
+                      </div>
+                    </div>
+
+            </div>
+            <div class="row" id="item" >
+
+            </div>
+            <div class="row" id="new" >
+
+            </div>
+
+        </div>
+    </body>
+</html> 
